@@ -1,2 +1,2 @@
-# Coleta_de_dados_climaticos
+# Coleta de dados climáticos
 RESTful API developed using FastAPI
